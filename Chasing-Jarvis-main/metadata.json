@@ -1,0 +1,6 @@
+{
+  "name": "WattsWise",
+  "description": "Smart household energy management: calculate demands, explore backup options, log habits, and get AI-powered efficiency advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
